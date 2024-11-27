@@ -9,14 +9,6 @@ Ubicación: Bucaramanga
 Lenguajes de Programación: Java, SQL
 Frameworks y Librerías: Spring
 Herramientas: Git
-Proyectos Destacados
-[En Desarrollo]
-
-Descripción breve del proyecto.
-[En Desarrollo]
-
-Descripción breve del proyecto.
-Tecnologías utilizadas: [Tecnologías]
 
 Email: juan.felipe.velasco27@gmail.com
 
