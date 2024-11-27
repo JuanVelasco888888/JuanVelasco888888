@@ -2,8 +2,12 @@
 
 
 ### 👨🏻‍💻 Sobre Mi
-
-
+👨‍💻 Actualmente Estudio en las Unidades Tecnologicas de Santander
+💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+🎓 Actualmente estoy estudiando Tecnología en Desarrollo de Sistemas Informaticos
+🌱 Estoy en camino de aprender más en areas de software, redes y demas relacionados
+✍️ En mi tiempo libre, me dedico a aprender mas sobre la programación en cursos en linea y desarrollo proyectos propios de lo que voy aprendiendo
+✉️ ¡Puedes enviarme un correo electrónico a juan.felipe.velasco27@gmail.com
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
