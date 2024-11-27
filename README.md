@@ -10,6 +10,3 @@ Lenguajes de Programación: Java, SQL
 Frameworks y Librerías: Spring
 Herramientas: Git
 
-Email: juan.felipe.velasco27@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/juan-felipe-velasco-tobon-6b890b332/
